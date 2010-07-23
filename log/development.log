@@ -1,0 +1,131 @@
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:08:22) [GET]
+
+ActionView::MissingTemplate (Missing template say/hello.erb in view path app/views):
+  <internal:prelude>:8:in `synchronize'
+  /usr/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:10:26) [GET]
+Rendering say/hello
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:11:52) [GET]
+Rendering say/hello
+Completed in 61ms (View: 60, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:12:46) [GET]
+Rendering say/hello
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:13:02) [GET]
+Rendering say/hello
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:13:13) [GET]
+Rendering say/hello
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:13:39) [GET]
+Rendering say/hello
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:13:44) [GET]
+Rendering say/hello
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:14:40) [GET]
+Rendering say/hello
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:16:45) [GET]
+Rendering say/hello
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:16:55) [GET]
+Rendering say/hello
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:17:04) [GET]
+Rendering say/hello
+Completed in 61ms (View: 59, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:17:10) [GET]
+Rendering say/hello
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:17:39) [GET]
+Rendering say/hello
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:17:44) [GET]
+Rendering say/hello
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:18:08) [GET]
+Rendering say/hello
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:18:43) [GET]
+Rendering say/hello
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:18:46) [GET]
+Rendering say/hello
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:18:47) [GET]
+Rendering say/hello
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:18:57) [GET]
+Rendering say/hello
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:19:01) [GET]
+Rendering say/hello
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:19:06) [GET]
+Rendering say/hello
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:19:07) [GET]
+Rendering say/hello
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:19:15) [GET]
+Rendering say/hello
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:19:20) [GET]
+Rendering say/hello
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
