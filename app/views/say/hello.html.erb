@@ -4,12 +4,14 @@
   </head>
 
   <body>
-    <pre>
     <h1>Hello from Rails!</h1>
-    <% %w[bob dave george].each do |name| %>
-    <%= h("#{name.capitalize}: <#{name}@example.com>") %><br />
-    <% end -%>
-    The time is <%= @time %>
-    </pre>
+
+    <p>
+      Say
+      <%= link_to "goodbye!", :action => "goodbye" %>
+    </p>
+    <p>
+      Go <%= link_to "loopy!", :action => "loopy" %>
+    </p>
   </body>
 </html>

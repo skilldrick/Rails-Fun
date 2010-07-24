@@ -129,3 +129,148 @@ Completed in 2ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
 Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:19:20) [GET]
 Rendering say/hello
 Completed in 3ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-23 14:24:05) [GET]
+Rendering say/hello
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-24 11:24:19) [GET]
+Rendering say/hello
+Completed in 75ms (View: 74, DB: 0) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#goodbye (for 127.0.0.1 at 2010-07-24 11:26:43) [GET]
+Rendering say/goodbye
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/say/goodbye]
+
+
+Processing SayController#goodbye (for 127.0.0.1 at 2010-07-24 11:28:02) [GET]
+Rendering say/goodbye
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/say/goodbye]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-24 11:28:23) [GET]
+Rendering say/hello
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-24 11:28:25) [GET]
+Rendering say/hello
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-24 11:28:29) [GET]
+Rendering say/hello
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-24 11:29:10) [GET]
+Rendering say/hello
+Completed in 53ms (View: 51, DB: 0) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#goodbye (for 127.0.0.1 at 2010-07-24 11:29:11) [GET]
+Rendering say/goodbye
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/say/goodbye]
+
+
+Processing SayController#goodbye (for 127.0.0.1 at 2010-07-24 11:29:37) [GET]
+Rendering say/goodbye
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/say/goodbye]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-24 11:29:39) [GET]
+Rendering say/hello
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#goodbye (for 127.0.0.1 at 2010-07-24 11:29:39) [GET]
+Rendering say/goodbye
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/say/goodbye]
+
+
+Processing SayController#goodbye (for 127.0.0.1 at 2010-07-24 11:31:09) [GET]
+Rendering say/goodbye
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/say/goodbye]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-24 11:31:13) [GET]
+Rendering say/hello
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-24 11:32:07) [GET]
+Rendering say/hello
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#goodbye (for 127.0.0.1 at 2010-07-24 11:32:11) [GET]
+Rendering say/goodbye
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/say/goodbye]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-24 11:32:12) [GET]
+Rendering say/hello
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-24 11:33:09) [GET]
+Rendering say/hello
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-24 11:37:40) [GET]
+Rendering say/hello
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#loopy (for 127.0.0.1 at 2010-07-24 11:37:45) [GET]
+Rendering say/loopy
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/say/loopy]
+
+
+Processing SayController#loopy (for 127.0.0.1 at 2010-07-24 11:38:15) [GET]
+Rendering say/loopy
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/say/loopy]
+
+
+Processing SayController#loopy (for 127.0.0.1 at 2010-07-24 11:38:22) [GET]
+Rendering say/loopy
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/say/loopy]
+
+
+Processing SayController#loopy (for 127.0.0.1 at 2010-07-24 11:39:09) [GET]
+Rendering say/loopy
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/say/loopy]
+
+
+Processing SayController#loopy (for 127.0.0.1 at 2010-07-24 11:39:18) [GET]
+Rendering say/loopy
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/say/loopy]
+
+
+Processing SayController#loopy (for 127.0.0.1 at 2010-07-24 11:39:22) [GET]
+Rendering say/loopy
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/say/loopy]
+
+
+Processing SayController#loopy (for 127.0.0.1 at 2010-07-24 11:39:24) [GET]
+Rendering say/loopy
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/say/loopy]
+
+
+Processing SayController#loopy (for 127.0.0.1 at 2010-07-24 11:40:45) [GET]
+Rendering say/loopy
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/say/loopy]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2010-07-24 11:40:50) [GET]
+Rendering say/hello
+Completed in 19ms (View: 18, DB: 0) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#loopy (for 127.0.0.1 at 2010-07-24 11:40:52) [GET]
+Rendering say/loopy
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/say/loopy]
